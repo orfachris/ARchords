@@ -1,5 +1,5 @@
 # ARchords
-Augmented Reality Application for Guitar Learning in Mobile Devices
+Augmented Reality Application for Guitar Learning in Mobile Devices (Bachelor Thesis)
 
 ## Description
 Its main function is to visualize the guitar chords with the use of three-dimensional (3D) 
